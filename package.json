@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0-pre.1",
+    "@webcomponents/webcomponentsjs": "^1.0.11",
+    "awesome-typescript-loader": "^3.2.3",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "source-map-loader": "^0.2.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.6.0",
+    "webpack-merge": "^4.1.0"
+  },
+  "name": "cake-calculator",
+  "flat": true,
+  "version": "0.0.1",
+  "description": "Calculate cake recipes",
+  "repository": "https://github.com/vibo/cake-calculator.git",
+  "author": "Viktor <vibo92@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/polymer": "^1.2.1",
+    "typescript": "^2.5.2"
+  }
+}
